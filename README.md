@@ -6,8 +6,8 @@
 - 2020 Goals: Get first Front-End Developer Job!
 
 ### Connect with me:
-[<img align="left" alt="https://jdsolutions.netlify.app" width="22px" src="https://icons8.com/icon/63766/globe" />] [website]
-[<img align="left" alt="jdsolutions" width="22px" src="https://icons8.com/icon/13930/linkedin" />] [linkedin]
+[<img align="left" alt="https://jdsolutions.netlify.app" width="22px" src="https://img.icons8.com/color/48/000000/globe--v1.png" />] [website]
+[<img align="left" alt="jdsolutions" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />] [linkedin]
 
 <br />
 
@@ -19,7 +19,7 @@
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />] 
 [<img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />] 
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />] 
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github/github.png" />] 
+[<img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/ios-glyphs/30/000000/github.png" />] 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />] 
 
 <br />
