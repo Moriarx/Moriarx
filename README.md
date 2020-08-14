@@ -6,8 +6,8 @@
 - 2020 Goals: Get first Front-End Developer Job!
 
 ### Connect with me:
-[<img align="left" alt="https://jdsolutions.netlify.app" width="22px" src="https://img.icons8.com/color/48/000000/globe--v1.png" />] [website]
-[<img align="left" alt="jdsolutions" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />] [linkedin]
+[<img align="left" alt="https://jdsolutions.netlify.app" width="22px" src="https://img.icons8.com/color/48/000000/globe--v1.png" />][website]
+[<img align="left" alt="jdsolutions" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 
 <br />
 
